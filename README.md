@@ -1,5 +1,5 @@
 # [Music Artist Bootstrap 5](https://github.com/Ahzu-Direct-Tech/Music-Artist-BS5)
-This landing page theme is a fork of [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+This landing page theme is a fork of [Grayscale](https://startbootstrap.com/theme/grayscale/): multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
